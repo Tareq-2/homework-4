@@ -1,0 +1,20 @@
+div{
+    background-color: rgb(223, 212, 120);
+    width: 40%;
+}
+p{
+    color:black;
+    background-color: rgb(81, 81, 179);
+    font-size: 18px;
+    width: 50%;
+    font-family:'Josefin Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    
+}
+a{
+    color: rgb(14, 106, 143);
+    text-decoration: none;
+    text-transform: capitalize;
+    text-align: center;
+}
